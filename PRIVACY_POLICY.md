@@ -56,9 +56,7 @@ their operating system.
 ## 8. Changes to this policy
 
 The policy may be updated when application functionality changes. The current
-version should always be available at:
-
-**[PRIVACY POLICY URL]**
+version should always be available at: https://github.com/firozph2/PharmaCalc-Trainer/blob/main/PRIVACY_POLICY.md
 
 ## 9. Contact
 
