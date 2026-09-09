@@ -1,7 +1,7 @@
 # Privacy Policy — PharmaCalc Trainer
 
 **Effective date:** 6 September 2026  
-**App version covered:** 0.3.4
+**App version covered:** 0.3.5
 
 
 ## 1. About this app
@@ -12,14 +12,14 @@ by, or an official product of the Australian Pharmacy Council (APC).
 
 ## 2. Information stored by the app
 
-Version 0.3.4 stores study information locally on the user's device, including
+Version 0.3.5 stores study information locally on the user's device, including
 practice/exam answers, progress statistics, incorrect-question status, and
 bookmarks. This information is used only to provide study, review, and progress
 features inside the app.
 
 ## 3. Data collection and sharing
 
-Version 0.3.4 does not require an account and does not intentionally collect,
+Version 0.3.5 does not require an account and does not intentionally collect,
 upload, sell, or share the user's study records with the publisher or third
 parties. This release does not include advertising, analytics, cloud-sync, or
 third-party tracking SDKs.
@@ -35,7 +35,7 @@ operating-system backup and restore behaviour.
 
 ## 5. Internet and third-party services
 
-The core version 0.3.4 application is designed to operate offline. If a future
+The core version 0.3.5 application is designed to operate offline. If a future
 version adds accounts, cloud storage, analytics, advertising, subscriptions,
 AI services, crash-reporting services, or any other network service, this
 privacy policy and the Google Play Data safety declaration must be updated
@@ -45,7 +45,7 @@ before that version is released.
 
 The application is intended as a pharmacy education/study tool. The publisher
 does not knowingly collect personal information from children through version
-0.3.4.
+0.3.5.
 
 ## 7. Security
 
